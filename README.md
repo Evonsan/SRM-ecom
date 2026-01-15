@@ -1,5 +1,5 @@
 # Проектирование и системный анализ модуля SRM (Supplier Relationship Management)
---
+
 Designing a module for a procurement and supplier management automation system for a pet retailer. 
 The primary language of the diagrams is Russian, as the customer is located in Russia. Description will be provided on Russian.
 --
